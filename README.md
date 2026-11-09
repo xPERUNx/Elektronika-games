@@ -1,2 +1,2 @@
 # Elektronika-games
-Elektronika and my G&amp;W games
+Elektronika LCD games
