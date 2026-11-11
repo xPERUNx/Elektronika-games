@@ -3,8 +3,6 @@ Elektronika LCD games
 
 (-Russian translation, Latin transcription, Polish translation, English translation)
 
-*ELEKTRONIKA:
-
 -Автослалом, Avtoslalom, Autoslalom, Autocross
 
 -Атака астероидов, Ataka asteroidov, Atak asteroidów, Asteroid Attack
