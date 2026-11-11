@@ -1,4 +1,4 @@
--Russian translation, Latin transcription, Polish translation, English translation
+(-Russian translation, Latin transcription, Polish translation, English translation)
 
 
 *ELEKTRONIKA:
