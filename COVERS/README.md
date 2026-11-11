@@ -2,7 +2,9 @@ Russian translation, Latin transcription, Polish translation, English translatio
 
 *ELEKTRONIKA:
 Автослалом, Avtoslalom, Autoslalom, Autocross
+
 Атака астероидов, Ataka asteroidov, Atak asteroidów, Asteroid Attack
+
 Биатлон, Biatlon, Biathlon, Biathlon
 Весёлая арифметика, Vesyolaya arifmetika, Wesoła arytmetyka, Funny Arithmetic
 Весёлая рыбалка, Vesyolaya rybalka, Wesołe wędkowanie, Happy Fishing
