@@ -31,6 +31,8 @@ Elektronika LCD games
 
 -Микки Маус, Mikki Maus, Myszka Miki, Mickey Mouse
 
+-Морская Атака, Morskaya ataka, Atak morski, Naval Attack
+
 -Морской бой, Morskoy boy, Bitwa morska, Naval Battle
 
 -Ниндзя, Nindzya, Ninja, Ninja
