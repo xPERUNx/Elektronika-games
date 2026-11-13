@@ -5,6 +5,8 @@ Elektronika LCD games
 
 -Автослалом, Avtoslalom, Autoslalom, Autocross
 
+-Автослалом (Версия 2), Avtoslalom (Versiya 2), Autoslalom (Wersja 2), Autocross (Version 2)
+
 -Атака астероидов, Ataka asteroidov, Atak asteroidów, Asteroid Attack
 
 -Биатлон, Biatlon, Biathlon, Biathlon
